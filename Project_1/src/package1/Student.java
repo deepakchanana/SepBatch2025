@@ -9,6 +9,7 @@ public class Student  // piller1
     public void display() // () indicate it is a method
     {
     	System.out.println("Welcome to all of you");
+    	System.out.println("Changes done by arpender");
     }
     public int deepak(int a,int b)  // non void 
     {
